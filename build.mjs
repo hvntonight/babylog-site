@@ -18,7 +18,7 @@ const home = `
   ${text('喂奶、睡眠、成长，\n一处记清楚。', 'Feed. Sleep. Grow.\nKeep it all together.', 'h1')}
   ${text('常用记录轻松输入，照护进展随时查看。无需登录，数据保存在你的设备上。', 'Quick care logs, clear daily summaries. No account needed. Your records stay on your device.', 'p', 'class="hero-detail"')}
   <div class="actions">${text('看看真实界面', 'Explore the app', 'a', 'class="button" href="#screens"')} ${text('了解数据与备份 ↗', 'Data & backups ↗', 'a', 'class="text-link" href="./support.html#backup"')}</div>
-  <p class="release"><i></i>${text('iPhone 与 iPad · 正在准备 App Store 上架', 'iPhone & iPad · Preparing for App Store release')}</p></div>
+  <p class="release"><i></i>${text('iPhone 与 iPad · 已提交 App Store 审核', 'iPhone & iPad · Submitted for App Store review')}</p></div>
 </section>
 <section id="features" class="wrap features"><div class="section-heading"><p class="eyebrow">DAILY CARE</p>${text('少点操作，多点清楚。', 'Fewer taps. A clearer day.', 'h2')}</div>
 <div class="feature-row"><span class="feature-index">01</span><div>${text('奶量快选，亲喂计时', 'Fast amounts. Separate nursing timers.', 'h3')}${text('滚动刻度、常用奶量和精确输入；左右分侧计时，可随时暂停。', 'Scroll the bottle ruler, pick a recent amount, or enter it precisely. Time each side and pause whenever needed.', 'p')}</div></div>
