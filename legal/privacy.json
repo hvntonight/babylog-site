@@ -1,0 +1,33 @@
+{
+  "updated": "2026-10-22",
+  "developer": "Qinglin Liu",
+  "contact": "hvnt3r@foxmail.com",
+  "zh": {
+    "title": "隐私政策",
+    "intro": "小栖 BabyLog 是供家长和照护者使用的本机照护记录工具。本政策说明当前本地版如何处理信息。生效日期：2026年10月22日。开发者：Qinglin Liu。",
+    "sections": [
+      {"title": "1. 记录保存在本机", "body": "你输入的宝宝姓名、生日、照护记录、测量、备注、提醒和偏好保存在设备的 App 存储中。开发者不运营宝宝数据服务器，不通过 App 收集或接收这些记录。App 无需账号，不包含广告、追踪或第三方分析 SDK，不接入 HealthKit 或云端照护同步。"},
+      {"title": "2. 备份与主动分享", "body": "只有当你主动导出、分享或导入时，App 才会把你选择的 JSON、CSV 或文字报告交给系统文件选择器或分享面板。你可以选择本机文件、云盘或其他 App；相应服务如何处理数据，由你选择的服务及其政策决定。导出文件可能包含全部宝宝资料，未由本 App 加密，请妥善保管。系统设备备份或 iCloud 是否包含本机 App 数据，取决于你的系统设置和 Apple 政策，不属于本 App 的多人同步。"},
+      {"title": "3. 本地通知与权限", "body": "照护间隔提醒默认关闭；你可以自行设置间隔、启用提醒并决定是否授予通知权限。通知由设备本地安排，不向开发者服务器发送照护记录。通知可能在锁屏显示宝宝姓名或提醒内容；可在系统设置中调整预览或撤销权限。导入和导出只访问你在系统界面主动选择的文件，不要求联系人、位置或照片权限。"},
+      {"title": "4. 历史参考不是医疗判断", "body": "喂养历史区间在本机依据你的有效记录计算，不识别饥饿，不提供医疗诊断或补剂用量建议。没有日志不代表实际没有照护。请以宝宝实际状态和专业人员建议为准，不要等待 App 提醒才处理健康问题。"},
+      {"title": "5. 保留、删除与设备安全", "body": "记录保留到你主动删除。你可编辑或删除记录、清空当前宝宝记录、删除宝宝档案，或卸载 App。卸载会移除本机 App 容器中的数据，但已导出的文件、你分享给他人的副本或系统备份需在相应位置另行删除。请使用设备密码和系统安全功能；本 App 不承诺导出文件具有额外加密，也不能恢复没有备份的数据。"},
+      {"title": "6. 支持邮件", "body": "如你主动联系支持，开发者仅使用你提供的内容回复和排查问题。请不要发送宝宝的完整照护记录、身份证明、密码或其他不必要的敏感资料。你可通过支持邮箱请求删除支持通信。"},
+      {"title": "7. 产品网站", "body": "公开产品和政策网站使用 GitHub Pages 托管，没有加入广告或分析脚本。访问网页时，GitHub 可能按其隐私政策处理 IP 地址和访问日志。App 不会自动向产品网站上传照护数据；只有你点击网页链接时才打开浏览器。GitHub 隐私说明：https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement。"},
+      {"title": "8. 更新与联系", "body": "政策发生变化时会更新生效日期；如果未来改变信息处理方式，会在适当位置说明。有关本 App 隐私和支持的问题，请联系 hvnt3r@foxmail.com。"}
+    ]
+  },
+  "en": {
+    "title": "Privacy Policy",
+    "intro": "BabyLog is an on-device care log for parents and caregivers. This policy explains the current local-only version. Effective October 22, 2026. Developer: Qinglin Liu.",
+    "sections": [
+      {"title": "1. Records stay on your device", "body": "Baby names, birthdays, care logs, measurements, notes, reminders and preferences you enter are stored in the app on your device. The developer does not operate a baby-data server or collect or receive these records through the app. No account is required. The app contains no advertising, tracking or third-party analytics SDKs, and does not connect to HealthKit or cloud caregiver sync."},
+      {"title": "2. Backups and sharing you choose", "body": "Only when you choose to export, share or import does the app pass your selected JSON, CSV or text report to the system file picker or share sheet. You may choose local files, cloud storage or another app. Those services handle data under their own policies and your choices. Exported files may contain all baby profiles and are not encrypted by this app; protect them carefully. Whether device backups or iCloud include app data depends on your system settings and Apple policies, not on caregiver sync provided by this app."},
+      {"title": "3. Local notifications and permission", "body": "Care-interval alerts default to off. You choose intervals, enable reminders and decide whether to allow notifications. Notifications are scheduled locally without sending care logs to a developer server. Baby names or reminder text may appear on the lock screen; change previews or revoke permission in system Settings. Import and export use only files you select through the system. Contacts, location and photo-library permission are not required."},
+      {"title": "4. History is not a medical assessment", "body": "Feeding history windows are calculated on your device from valid logs. They do not identify hunger, diagnose conditions or recommend supplement doses. Missing logs do not prove missing care. Follow your baby’s actual condition and professional advice; do not wait for app reminders to address a health concern."},
+      {"title": "5. Retention, deletion and device security", "body": "Records remain until you delete them. You can edit or delete records, clear the current baby’s records, remove a baby profile or uninstall the app. Uninstalling removes the local app container, but exported files, copies shared with others and system backups must be removed separately at their locations. Use a device passcode and system security. The app does not promise extra encryption for exported files and cannot recover data without a backup."},
+      {"title": "6. Support email", "body": "If you contact support, the developer uses the information you voluntarily provide to respond and investigate. Do not send complete baby care histories, identity documents, passwords or unnecessary sensitive information. You may request deletion of support correspondence through the support email."},
+      {"title": "7. Product website", "body": "The public product and policy website is hosted on GitHub Pages without added advertising or analytics scripts. GitHub may process IP addresses and access logs under its privacy policy. The app does not automatically upload care data to the website; the browser opens only when you choose a web link. GitHub privacy statement: https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement."},
+      {"title": "8. Changes and contact", "body": "The effective date is updated when this policy changes. Future changes in data handling will be explained in an appropriate place. For privacy or support questions about this app, contact hvnt3r@foxmail.com."}
+    ]
+  }
+}
